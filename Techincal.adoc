@@ -1,0 +1,4 @@
+= Techincal Notes
+Peter Lawrey
+
+This document covers some of the technical considerations in the implementation of a digital currency.
